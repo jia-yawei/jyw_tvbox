@@ -214,23 +214,6 @@
             "api": "https://hhzyapi.com/api.php/provide/vod/"
         },
         {
-            "key": "lf_js_p2p",
-            "name": "路飞|p2p",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "api": "./js/lf_p2p2_min.js",
-            "ext": ""
-        },
-        {
-            "key": "AList",
-            "name": "Alist",
-            "type": 3,
-            "api": "csp_AList",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
-        },
-        {
             "key": "drpy_js_网飞.TV",
             "name": "奈飞(vpn)",
             "type": 3,
