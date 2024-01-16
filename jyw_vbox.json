@@ -163,7 +163,7 @@
         },
         {
             "key": "T4荐片",
-            "name": "️荐片丨P2P",
+            "name": "荐片丨P2P",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_JP",
             "searchable": 1,
