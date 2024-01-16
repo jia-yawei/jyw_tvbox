@@ -104,6 +104,13 @@
             }
         },
         {
+            "key": "畅梦",
+            "name": "🚀 畅梦秒播 ",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/changmeng.js"
+        },
+        {
             "key": "csp_Kuaikan",
             "name": "💡快看影视",
             "type": 3,
