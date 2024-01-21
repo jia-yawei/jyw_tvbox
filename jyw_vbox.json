@@ -88,7 +88,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy66.com/"
+            "ext": "https://www.czzy66.com/",
+            "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5"
         },
         {
             "key": "南坊",
@@ -98,6 +99,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
             "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
         },
         {
@@ -108,6 +110,7 @@
             "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
+            "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
             "changeable": 1
         },
         {
@@ -118,6 +121,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
         },
         {
@@ -128,6 +132,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
             "changeable": 0
         },
         {
